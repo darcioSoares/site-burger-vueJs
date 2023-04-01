@@ -1,0 +1,232 @@
+{
+  "ingredientes": {
+    "paes": [
+      {
+        "id": 1,
+        "tipo": "Italiano Branco"
+      },
+      {
+        "id": 2,
+        "tipo": "3 Queijos"
+      },
+      {
+        "id": 3,
+        "tipo": "Parmesão e Orégano"
+      },
+      {
+        "id": 4,
+        "tipo": "Integral"
+      }
+    ],
+    "carnes": [
+      {
+        "id": 1,
+        "tipo": "Maminha"
+      },
+      {
+        "id": 2,
+        "tipo": "Alcatra"
+      },
+      {
+        "id": 3,
+        "tipo": "Picanha"
+      },
+      {
+        "id": 4,
+        "tipo": "Veggie burger"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 2,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 3,
+        "tipo": "Salame"
+      },
+      {
+        "id": 4,
+        "tipo": "Tomate"
+      },
+      {
+        "id": 4,
+        "tipo": "Cebola roxa"
+      },
+      {
+        "id": 4,
+        "tipo": "Pepino"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em produção"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "nome": "dss",
+      "carne": "Picanha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Tomate",
+        "Cebola roxa"
+      ],
+      "status": "Em produção",
+      "id": 1
+    },
+    {
+      "nome": "dss1",
+      "carne": "Veggie burger",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Pepino",
+        "Tomate"
+      ],
+      "status": "Solicitado",
+      "id": 2
+    },
+    {
+      "nome": "darcio@dss",
+      "carne": "Veggie burger",
+      "pao": "Integral",
+      "opcionais": [
+        "Pepino",
+        "Tomate",
+        "Cebola roxa"
+      ],
+      "status": "Finalizado",
+      "id": 3
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "email": "dss@dss",
+      "password": "12345678"
+    },
+    {
+      "email": "dss@dss",
+      "password": "12345678",
+      "id": 2
+    },
+    {
+      "name": "darcio",
+      "lastName": "soares",
+      "email": "darcio@dss",
+      "password": "123456789",
+      "confirm": "123456789",
+      "id": 3
+    },
+    {
+      "email": "darssss",
+      "password": "123456789",
+      "id": 4
+    },
+    {
+      "email": "darcio@dss",
+      "password": "12345678",
+      "id": 5
+    },
+    {
+      "email": "darcio@dss",
+      "password": "12345678",
+      "id": 6
+    },
+    {
+      "email": "dss@dss",
+      "password": "123456789",
+      "id": 7
+    },
+    {
+      "email": "darcio@dss",
+      "password": "123456789",
+      "id": 8
+    },
+    {
+      "email": "dss@dss",
+      "password": "123456789",
+      "id": 9
+    },
+    {
+      "email": "dss@dss",
+      "password": "123456789",
+      "id": 10
+    },
+    {
+      "email": "dss@dss",
+      "password": "123456789",
+      "id": 11
+    },
+    {
+      "email": "dss@dss",
+      "password": "12345678",
+      "id": 12
+    },
+    {
+      "email": "dss@dss",
+      "password": "12345678",
+      "id": 13
+    },
+    {
+      "name": "Darcio de",
+      "lastName": "soares",
+      "email": "darciosoares28@gmail.com",
+      "password": "12345678",
+      "confirm": "12345678",
+      "id": 14
+    },
+    {
+      "email": "darciosoares28@gmail.com",
+      "password": "12345678",
+      "id": 15
+    },
+    {
+      "name": "darcio",
+      "lastName": "soares",
+      "email": "d@dss",
+      "password": "12345678",
+      "confirm": "12345678",
+      "id": 16
+    },
+    {
+      "email": "dss@dss",
+      "password": "12345678",
+      "id": 17
+    },
+    {
+      "email": "darcio@dss",
+      "password": "12345678",
+      "id": 18
+    },
+    {
+      "email": "darcio@dss",
+      "password": "12345678",
+      "id": 19
+    },
+    {
+      "email": "darcio@dss",
+      "password": "12345678",
+      "id": 20
+    },
+    {
+      "email": "kkkkkkkkkk",
+      "password": "kkkkkkkkkkkkkkkkkkk",
+      "id": 21
+    }
+  ]
+}

@@ -10,10 +10,9 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### up api 
 ```
-npm run build
+npm run api
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
