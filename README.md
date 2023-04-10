@@ -1,4 +1,4 @@
-# proj_burguer
+### proj_burguer
 
 ## Project setup
 ```
@@ -14,5 +14,6 @@ npm run serve
 ```
 npm run api
 ```
-
+![](telaMain.png)
+![](tela.png)
 
